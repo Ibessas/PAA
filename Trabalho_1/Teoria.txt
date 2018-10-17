@@ -1,0 +1,4 @@
+O vetor de pontos deve ser ordenado primeiro em relação ao eixo X
+Após a ordenação, deve-se encontrar o meio e separar o vetor em 2
+Devem-se encontrar os pontos mais proximos do lafo esquerdo e direito
+e tambem os pontos mais proximos do meio
